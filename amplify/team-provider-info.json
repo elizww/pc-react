@@ -1,0 +1,14 @@
+{
+    "stage": {
+        "awscloudformation": {
+            "AuthRoleName": "pc-react-stage-20190913123414-authRole",
+            "UnauthRoleArn": "arn:aws:iam::685834646100:role/pc-react-stage-20190913123414-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::685834646100:role/pc-react-stage-20190913123414-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "pc-react-stage-20190913123414-deployment",
+            "UnauthRoleName": "pc-react-stage-20190913123414-unauthRole",
+            "StackName": "pc-react-stage-20190913123414",
+            "StackId": "arn:aws:cloudformation:eu-west-1:685834646100:stack/pc-react-stage-20190913123414/ae507930-d609-11e9-911c-02925b9a5d4e"
+        }
+    }
+}
