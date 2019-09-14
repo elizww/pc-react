@@ -1,0 +1,101 @@
+//Suggested location to add your overrides so that migration would be easy by just updating the SASS folder in the future
+.layout-topbar {
+  @include linear-gradient-left($menuDarkBgColorFirst, $menuDarkBgColorLast);
+  padding: .5em 1.5em 0em 1.5em;
+
+}
+
+body .p-menubar{
+  border: none;
+}
+
+.p-menubar ,
+body .p-menubar .p-submenu-list{
+  // padding: .25em;
+  @include linear-gradient-left($menuDarkBgColorFirst, $menuDarkBgColorLast);
+  color: #ffffff;
+}
+
+.p-menubar .p-menuitem-icon {
+  margin-right: .25em;
+}
+
+.p-menubar .p-menubar-root-list {
+  display: inline-block;
+}
+
+.p-menubar .p-menubar-root-list > .p-menuitem {
+  display: inline-block;
+  position: relative;
+  color: #ffffff
+}
+
+.p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-link {
+  padding: .5em;
+}
+
+.p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-link > .p-submenu-icon {
+  vertical-align: middle;
+  margin-left: .25em;
+  color: #ffffff;
+}
+
+.p-menubar .p-menubar-root-list > li ul {
+  display: none;
+  z-index: 1;
+}
+
+.p-menubar .p-menubar-root-list > .p-menuitem-active > .p-submenu-list {
+  display: block;
+}
+
+.p-menubar .p-submenu-list {
+  display: none;
+  position: absolute;
+  min-width: 12.5em;
+  padding: .25em;
+}
+
+.p-menubar .p-submenu-list .p-menuitem {
+  margin: .125em 0;
+  position: relative;
+}
+
+.p-menubar .p-submenu-list > .p-menuitem-active > .p-submenu-list {
+  display: block;
+  left: 100%;
+  top: 0;
+}
+
+.p-menubar .p-menuitem-icon {
+  margin-right: .25em;
+  vertical-align: middle;
+}
+
+.p-menubar .p-menuitem-text {
+  vertical-align: middle;
+  color: #ffffff;
+}
+
+.p-menubar .p-submenu-list .p-menuitem-link .p-submenu-icon {
+  position: absolute;
+  margin-top: -.5em;
+  right: 0;
+  top: 50%;
+  color: #ffffff;
+}
+
+.p-menubar .p-menuitem-active > .p-submenu > .p-submenu-list {
+  display: block;
+}
+
+.p-menubar .p-menubar-custom {
+  float: right;
+  padding: .25em;
+}
+
+body .p-menubar .p-menuitem-link,
+body .p-menubar .p-menuitem-link .p-menuitem-text,
+body .p-menubar .p-menuitem-link .p-menuitem-icon{
+  color: #ffffff;
+}

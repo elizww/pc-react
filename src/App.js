@@ -6,11 +6,16 @@ import 'primeicons/primeicons.css';
 import 'primeflex/primeflex.css';
 import './layout/layout.scss';
 import './App.scss';
+import AppTop from "./components/layout/AppTop";
+import AppMenu from "./components/layout/AppMenu";
 function App() {
   return (
     <div className="layout-wrapper layout-static">
-      APP
-      <div className="layout-mask"/>
+      <AppTop />
+      <AppMenu />
+        {/*<AppMain />
+      <AppFooter />
+      */}<div className="layout-mask"/>
     </div>
   );
 }
