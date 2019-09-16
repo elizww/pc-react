@@ -1,7 +1,6 @@
 import React from 'react';
 import AppProfile from "./AppProfile";
 import LeftMenu from "./LeftMenu";
-import PropTypes from 'prop-types';
 
 const AppMenu = () => {
     const logo = 'assets/layout/images/logo-white.png';
@@ -11,7 +10,7 @@ const AppMenu = () => {
             items: [
                 {label: 'Calendar', icon: 'fas fa-calendar-alt', to: '/'},
                 {label: 'Pre Production', icon: 'fas fa-business-time', to: '/'},
-                {label: 'Shooting (Call Sheets)', icon: 'fas fa-video', to: '/'},
+                {label: 'Shooting (Call Sheets)', icon: 'fas fa-video', to: '/shooting'},
                 {label: 'Post Production', icon: 'fas fa-film', to: '/'}
             ]
         },

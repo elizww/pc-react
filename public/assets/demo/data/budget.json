@@ -1,0 +1,1090 @@
+{
+  "root": [
+    {
+      "key": "500",
+      "data": {
+        "name": "Main",
+        "total": "804,902",
+        "now": "321,963",
+        "later": "482,944",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 500001,
+          "data": {
+            "name": "producer",
+            "amount": 2926965,
+            "sum": 10.5,
+            "measure": "%",
+            "total": 307328,
+            "now": 122931,
+            "later": 184397
+          }
+        },
+        {
+          "key": 500002,
+          "data": {
+            "name": "director",
+            "amount": 2926965,
+            "sum": 7.5,
+            "measure": "%",
+            "total": 219520,
+            "now": 87808,
+            "later": 131712
+          }
+        },
+        {
+          "key": 500003,
+          "data": {
+            "name": "script",
+            "amount": 2926965,
+            "sum": 6,
+            "measure": "%",
+            "total": 175616,
+            "now": 70246,
+            "later": 105370
+          }
+        },
+        {
+          "key": 500004,
+          "data": {
+            "name": "copyrights",
+            "amount": 2926965,
+            "sum": 3.5,
+            "measure": "%",
+            "total": 102443,
+            "now": 40977,
+            "later": 61466
+          }
+        }
+      ]
+    },
+    {
+      "key": "510",
+      "data": {
+        "name": "Leading Actors",
+        "total": "105,200",
+        "now": "73,800",
+        "later": "31,400",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 510001,
+          "data": {
+            "name": "actor 1",
+            "amount": "2,000",
+            "sum": 22,
+            "measure": "#daily",
+            "total": 44000,
+            "now": 25000,
+            "later": 19000
+          }
+        },
+        {
+          "key": 510002,
+          "data": {
+            "name": "actor 2",
+            "amount": "1,800",
+            "sum": 18,
+            "measure": "#daily",
+            "total": 32400,
+            "now": 20000,
+            "later": 12400
+          }
+        },
+        {
+          "key": 510003,
+          "data": {
+            "name": "actor 3",
+            "amount": "1,600",
+            "sum": 10,
+            "measure": "#daily",
+            "total": 16000,
+            "now": 16000,
+            "later": 0
+          }
+        },
+        {
+          "key": 510004,
+          "data": {
+            "name": "actor 4",
+            "amount": "1,600",
+            "sum": 8,
+            "measure": "#daily",
+            "total": 12800,
+            "now": 12800,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "511",
+      "data": {
+        "name": "Supporting Actors",
+        "total": "96,400",
+        "now": "96,400",
+        "later": "",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 515005,
+          "data": {
+            "name": "support actor 1",
+            "amount": "1,200",
+            "sum": 12,
+            "measure": "#daily",
+            "total": 14400,
+            "now": 14400,
+            "later": 0
+          }
+        },
+        {
+          "key": 515006,
+          "data": {
+            "name": "support actor 2",
+            "amount": "1,200",
+            "sum": 10,
+            "measure": "#daily",
+            "total": 12000,
+            "now": 12000,
+            "later": 0
+          }
+        },
+        {
+          "key": 515007,
+          "data": {
+            "name": "support actor 3",
+            "amount": "1,000",
+            "sum": 8,
+            "measure": "#daily",
+            "total": 8000,
+            "now": 8000,
+            "later": 0
+          }
+        },
+        {
+          "key": 515008,
+          "data": {
+            "name": "support actor 4",
+            "amount": "1,000",
+            "sum": 8,
+            "measure": "#daily",
+            "total": 8000,
+            "now": 8000,
+            "later": 0
+          }
+        },
+        {
+          "key": 515009,
+          "data": {
+            "name": "support actor 5",
+            "amount": "1,000",
+            "sum": 6,
+            "measure": "#daily",
+            "total": 6000,
+            "now": 6000,
+            "later": 0
+          }
+        },
+        {
+          "key": 515050,
+          "data": {
+            "name": "stunts",
+            "amount": "3,000",
+            "sum": 4,
+            "measure": "#daily",
+            "total": 12000,
+            "now": 12000,
+            "later": 0
+          }
+        },
+        {
+          "key": 515060,
+          "data": {
+            "name": "miniroles",
+            "amount": 800,
+            "sum": 20,
+            "measure": "#daily",
+            "total": 16000,
+            "now": 16000,
+            "later": 0
+          }
+        },
+        {
+          "key": 515070,
+          "data": {
+            "name": "extras",
+            "amount": 400,
+            "sum": 50,
+            "measure": "#daily",
+            "total": 20000,
+            "now": 20000,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "515",
+      "data": {
+        "name": "Production Crew",
+        "total": "226,700",
+        "now": "226,700",
+        "later": "",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 520001,
+          "data": {
+            "name": "executive producer",
+            "amount": "5,000",
+            "sum": 15,
+            "measure": "#weekly",
+            "total": 75000,
+            "now": 75000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520002,
+          "data": {
+            "name": "production manager",
+            "amount": "4,000",
+            "sum": 11,
+            "measure": "#weekly",
+            "total": 44000,
+            "now": 44000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520003,
+          "data": {
+            "name": "production coordinator",
+            "amount": "1,600",
+            "sum": 11,
+            "measure": "#weekly",
+            "total": 17600,
+            "now": 17600,
+            "later": 0
+          }
+        },
+        {
+          "key": 520004,
+          "data": {
+            "name": "location manager",
+            "amount": "3,000",
+            "sum": 8,
+            "measure": "#weekly",
+            "total": 24000,
+            "now": 24000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520005,
+          "data": {
+            "name": "transportation manager",
+            "amount": "3,000",
+            "sum": 5,
+            "measure": "#weekly",
+            "total": 15000,
+            "now": 15000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520006,
+          "data": {
+            "name": "assistant production 1",
+            "amount": "1,000",
+            "sum": 8,
+            "measure": "#weekly",
+            "total": 8000,
+            "now": 8000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520007,
+          "data": {
+            "name": "assistant production 2",
+            "amount": "1,000",
+            "sum": 7,
+            "measure": "#weekly",
+            "total": 7000,
+            "now": 7000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520008,
+          "data": {
+            "name": "transport coordinator",
+            "amount": "2,000",
+            "sum": 7,
+            "measure": "#weekly",
+            "total": 14000,
+            "now": 14000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520009,
+          "data": {
+            "name": "driver",
+            "amount": "1,600",
+            "sum": 6,
+            "measure": "#weekly",
+            "total": 9600,
+            "now": 9600,
+            "later": 0
+          }
+        },
+        {
+          "key": 520010,
+          "data": {
+            "name": "water boy",
+            "amount": "1,000",
+            "sum": 4.5,
+            "measure": "#weekly",
+            "total": 4500,
+            "now": 4500,
+            "later": 0
+          }
+        },
+        {
+          "key": 520011,
+          "data": {
+            "name": "office boy",
+            "amount": "1,000",
+            "sum": 8,
+            "measure": "#weekly",
+            "total": 8000,
+            "now": 8000,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "521",
+      "data": {
+        "name": "Director Crew",
+        "total": "72,000",
+        "now": "72,000",
+        "later": "",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 520020,
+          "data": {
+            "name": "first assistant director",
+            "amount": "4,000",
+            "sum": 10,
+            "measure": "#weekly",
+            "total": 40000,
+            "now": 40000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520020,
+          "data": {
+            "name": "second assistant director",
+            "amount": "2,000",
+            "sum": 7,
+            "measure": "#weekly",
+            "total": 14000,
+            "now": 14000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520020,
+          "data": {
+            "name": "assistant director",
+            "amount": "1,000",
+            "sum": 5.5,
+            "measure": "#weekly",
+            "total": 5500,
+            "now": 5500,
+            "later": 0
+          }
+        },
+        {
+          "key": 520020,
+          "data": {
+            "name": "script manager",
+            "amount": "2,500",
+            "sum": 5,
+            "measure": "#weekly",
+            "total": 12500,
+            "now": 12500,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "522",
+      "data": {
+        "name": "Camera",
+        "total": "107,200",
+        "now": "73,200",
+        "later": "34,000",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 520030,
+          "data": {
+            "name": "camera operator",
+            "amount": 8000,
+            "sum": 8,
+            "measure": "#weekly",
+            "total": 64000,
+            "now": 30000,
+            "later": 34000
+          }
+        },
+        {
+          "key": 520031,
+          "data": {
+            "name": "first assistant camera",
+            "amount": 4000,
+            "sum": 5,
+            "measure": "#weekly",
+            "total": 20000,
+            "now": 20000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520032,
+          "data": {
+            "name": "second assistant camera",
+            "amount": 2000,
+            "sum": 5,
+            "measure": "#weekly",
+            "total": 10000,
+            "now": 10000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520033,
+          "data": {
+            "name": "camera crew 2",
+            "amount": 1800,
+            "sum": 2,
+            "measure": "#daily",
+            "total": 3600,
+            "now": 3600,
+            "later": 0
+          }
+        },
+        {
+          "key": 520034,
+          "data": {
+            "name": "stills camera operator",
+            "amount": 600,
+            "sum": 16,
+            "measure": "#daily",
+            "total": 9600,
+            "now": 9600,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "523",
+      "data": {
+        "name": "Sound",
+        "total": "43,500",
+        "now": "17,500",
+        "later": "26,000",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 520040,
+          "data": {
+            "name": "sound recordist",
+            "amount": 6000,
+            "sum": 5,
+            "measure": "#weekly",
+            "total": 30000,
+            "now": 4000,
+            "later": 26000
+          }
+        },
+        {
+          "key": 520041,
+          "data": {
+            "name": "boom operator",
+            "amount": 3000,
+            "sum": 4.5,
+            "measure": "#weekly",
+            "total": 13500,
+            "now": 13500,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "524",
+      "data": {
+        "name": "Lighting",
+        "total": "75,000",
+        "now": "75,000",
+        "later": "",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 520050,
+          "data": {
+            "name": "gaffer",
+            "amount": 6000,
+            "sum": 5,
+            "measure": "#weekly",
+            "total": 30000,
+            "now": 30000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520051,
+          "data": {
+            "name": "best boy",
+            "amount": 4000,
+            "sum": 5,
+            "measure": "#weekly",
+            "total": 20000,
+            "now": 20000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520052,
+          "data": {
+            "name": "lighting technician",
+            "amount": 3000,
+            "sum": 5,
+            "measure": "#weekly",
+            "total": 15000,
+            "now": 15000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520053,
+          "data": {
+            "name": "lighting assistant",
+            "amount": 1000,
+            "sum": 10,
+            "measure": "#daily",
+            "total": 10000,
+            "now": 10000,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "525",
+      "data": {
+        "name": "Grip",
+        "total": "47,500",
+        "now": "47,500",
+        "later": "",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 520060,
+          "data": {
+            "name": "key grip",
+            "amount": 6000,
+            "sum": 5,
+            "measure": "#weekly",
+            "total": 30000,
+            "now": 30000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520060,
+          "data": {
+            "name": "second grip",
+            "amount": 3500,
+            "sum": 5,
+            "measure": "#weekly",
+            "total": 17500,
+            "now": 17500,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "526",
+      "data": {
+        "name": "Art",
+        "total": "183,000",
+        "now": "133,000",
+        "later": "50,000",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 520070,
+          "data": {
+            "name": "art director",
+            "amount": 8000,
+            "sum": 10,
+            "measure": "#weekly",
+            "total": 80000,
+            "now": 30000,
+            "later": 50000
+          }
+        },
+        {
+          "key": 520071,
+          "data": {
+            "name": "set dresser",
+            "amount": 4000,
+            "sum": 8,
+            "measure": "#weekly",
+            "total": 32000,
+            "now": 32000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520072,
+          "data": {
+            "name": "props master",
+            "amount": 4000,
+            "sum": 8,
+            "measure": "#weekly",
+            "total": 32000,
+            "now": 32000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520073,
+          "data": {
+            "name": "first art assistant",
+            "amount": 3000,
+            "sum": 8,
+            "measure": "#weekly",
+            "total": 24000,
+            "now": 24000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520074,
+          "data": {
+            "name": "second art assistant",
+            "amount": 2500,
+            "sum": 6,
+            "measure": "#weekly",
+            "total": 15000,
+            "now": 15000,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "527",
+      "data": {
+        "name": "Costume",
+        "total": "87,000",
+        "now": "87,000",
+        "later": "",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 520080,
+          "data": {
+            "name": "costume designer",
+            "amount": 6000,
+            "sum": 10,
+            "measure": "#weekly",
+            "total": 60000,
+            "now": 60000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520081,
+          "data": {
+            "name": "costume assistant",
+            "amount": 3000,
+            "sum": 9,
+            "measure": "#weekly",
+            "total": 27000,
+            "now": 27000,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "528",
+      "data": {
+        "name": "Hair & Make-Up",
+        "total": "53,000",
+        "now": "53,000",
+        "later": "",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 520090,
+          "data": {
+            "name": "key makeup artist",
+            "amount": 6000,
+            "sum": 5.5,
+            "measure": "#weekly",
+            "total": 33000,
+            "now": 33000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520091,
+          "data": {
+            "name": "makeup assistant",
+            "amount": 800,
+            "sum": 10,
+            "measure": "#daily",
+            "total": 8000,
+            "now": 8000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520092,
+          "data": {
+            "name": "key hair",
+            "amount": 1200,
+            "sum": 10,
+            "measure": "#daily",
+            "total": 12000,
+            "now": 12000,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "529",
+      "data": {
+        "name": "Misc",
+        "total": "65,00",
+        "now": "65,00",
+        "later": "",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 520100,
+          "data": {
+            "name": "casting",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": 25000,
+            "now": 25000,
+            "later": 0
+          }
+        },
+        {
+          "key": 520110,
+          "data": {
+            "name": "extra hours",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": 40000,
+            "now": 40000,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "530",
+      "data": {
+        "name": "Preparation",
+        "total": "19,000",
+        "now": "19,000",
+        "later": "",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 530001,
+          "data": {
+            "name": "location scouting",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": 8000,
+            "now": 8000,
+            "later": 0
+          }
+        },
+        {
+          "key": 530002,
+          "data": {
+            "name": "rehearsal room",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": 6000,
+            "now": 6000,
+            "later": 0
+          }
+        },
+        {
+          "key": 530003,
+          "data": {
+            "name": "warehouse",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": 5000,
+            "now": 5000,
+            "later": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "540",
+      "data": {
+        "name": "Equipment",
+        "total": "245,500",
+        "now": "170,500",
+        "later": "75,000",
+        "amount": "",
+        "sum": "",
+        "measure": ""
+      },
+      "children": [
+        {
+          "key": 540002,
+          "data": {
+            "name": "camera equipment",
+            "amount": "16,000",
+            "sum": 4.5,
+            "measure": "#daily",
+            "total": 72000,
+            "now": 40000,
+            "later": 32000
+          }
+        },
+        {
+          "key": 540003,
+          "data": {
+            "name": "lighting equipment",
+            "amount": "16,000",
+            "sum": 4.5,
+            "measure": "#daily",
+            "total": 72000,
+            "now": 40000,
+            "later": 32000
+          }
+        },
+        {
+          "key": 540004,
+          "data": {
+            "name": "doly and grip",
+            "amount": "8,000",
+            "sum": 4.5,
+            "measure": "#daily",
+            "total": 36000,
+            "now": 25000,
+            "later": 11000
+          }
+        },
+        {
+          "key": 540005,
+          "data": {
+            "name": "hanging cameras",
+            "amount": "1,500",
+            "sum": 3,
+            "measure": "#daily",
+            "total": 4500,
+            "now": 4500,
+            "later": 0
+          }
+        },
+        {
+          "key": 540006,
+          "data": {
+            "name": "sound equipment",
+            "amount": "2,000",
+            "sum": 4.5,
+            "measure": "#daily",
+            "total": 9000,
+            "now": 9000,
+            "later": 0
+          }
+        },
+        {
+          "key": 540007,
+          "data": {
+            "name": "generator",
+            "amount": "2,000",
+            "sum": 6,
+            "measure": "#daily",
+            "total": 12000,
+            "now": 12000,
+            "later": 0
+          }
+        },
+        {
+          "key": 540008,
+          "data": {
+            "name": "gelatine",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": "5,000",
+            "now": "5,000",
+            "later": 0
+          }
+        },
+        {
+          "key": 540009,
+          "data": {
+            "name": "light bulbs",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": "6,000",
+            "now": "6,000",
+            "later": 0
+          }
+        },
+        {
+          "key": 540010,
+          "data": {
+            "name": "damage to equipment",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": "6,000",
+            "now": "6,000",
+            "later": 0
+          }
+        },
+        {
+          "key": 540011,
+          "data": {
+            "name": "video tapes",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": "8,000",
+            "now": "8,000",
+            "later": 0
+          }
+        },
+        {
+          "key": 540012,
+          "data": {
+            "name": "sills",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": "1,000",
+            "now": "1,000",
+            "later": 0
+          }
+        },
+        {
+          "key": 540013,
+          "data": {
+            "name": "consumable camera",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": "6,000",
+            "now": "6,000",
+            "later": 0
+          }
+        },
+        {
+          "key": 540014,
+          "data": {
+            "name": "consumable sound",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": "2,000",
+            "now": "2,000",
+            "later": 0
+          }
+        },
+        {
+          "key": 540015,
+          "data": {
+            "name": "consumable grip",
+            "amount": "",
+            "sum": "",
+            "measure": "",
+            "total": "6,000",
+            "now": "6,000",
+            "later": 0
+          }
+        }
+      ]
+    }
+  ]
+}

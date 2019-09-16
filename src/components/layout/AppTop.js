@@ -2,8 +2,13 @@ import React from 'react';
 import {Menubar} from "primereact/menubar";
 import {InputText} from "primereact/inputtext";
 import {Button} from "primereact/button";
+import {withRouter} from "react-router-dom";
 
-const AppTop = () => {
+const AppTop = ({history}) => {
+    const redirect = (path) => {
+        history.push(path);
+    };
+
     const items =[
         {
             label:'Project',
@@ -46,11 +51,13 @@ const AppTop = () => {
             items:[
                 {
                     label:'Starting Budget',
-                    icon:'fas fa-fast-backward'
+                    icon: 'fas fa-fast-backward',
+                    command: () => redirect('/budget')
                 },
                 {
                     label:'Manage Budget',
-                    icon:'fas fa-hand-holding-usd'
+                    icon: 'fas fa-hand-holding-usd',
+                    command: () => redirect('/budget')
                 }
             ]
         },
@@ -69,4 +76,4 @@ const AppTop = () => {
     )
 };
 
-export default AppTop;
+export default withRouter(AppTop);
