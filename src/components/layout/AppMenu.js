@@ -7,11 +7,13 @@ const AppMenu = () => {
     const logo = 'assets/layout/images/logo-white.png';
     const menu = [
         {
-            label: 'Productions', icon: 'pi pi-fw pi-briefcase',
+            label: 'Breakdown', icon: 'pi pi-fw pi-briefcase',
             items: [
-                {label: 'Milk', to: '/sample'},
-                {label: 'Dikla', to: '/sample'},
-                {label: 'Matrix', to: '/sample'}
+                {label: 'Calendar', icon:'fas fa-calendar-alt',  to: '/'},
+                {label: 'Pre Production', icon: 'fas fa-business-time', to: '/'},
+                {label: 'Shooting Days', to: '/', items: [
+                        { label: 'Call Sheet', to: '/'}
+                    ]}
             ]
         },
         { label: 'Budget', icon: 'pi pi-fw pi-money-bill', to: '/' },

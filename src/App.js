@@ -8,16 +8,20 @@ import './layout/layout.scss';
 import './App.scss';
 import AppTop from "./components/layout/AppTop";
 import AppMenu from "./components/layout/AppMenu";
+import AppMain from "./components/layout/AppMain";
+
 function App() {
-  return (
-    <div className="layout-wrapper layout-static">
-      <AppTop />
-      <AppMenu />
-        {/*<AppMain />
+    return (
+        <div className="layout-wrapper layout-static">
+            <AppTop/>
+            <AppMenu/>
+            <AppMain/>
+            {/*
       <AppFooter />
-      */}<div className="layout-mask"/>
-    </div>
-  );
+      */}
+            <div className="layout-mask"/>
+        </div>
+    );
 }
 
 export default App;
