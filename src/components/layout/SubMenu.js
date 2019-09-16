@@ -73,7 +73,7 @@ const SubMenu = ({className, items, onMenuItemClick, root}) => {
 
         return (
             <li className={styleClass} key={i}>
-                {item.items && root===true && <div className='arrow'/>}
+                {item.items && <div className='arrow'/>}
                 {renderLink(item, i)}
                 <SubMenu items={item.items} onMenuItemClick={onMenuItemClick}/>
             </li>
@@ -84,10 +84,10 @@ const SubMenu = ({className, items, onMenuItemClick, root}) => {
 };
 
 SubMenu.propTypes = {
-    className: PropTypes.string.isRequired,
-    items: PropTypes.array.isRequired,
+    className: PropTypes.string,
+    items: PropTypes.array,
     onMenuItemClick: PropTypes.func,
-    root: PropTypes.bool.isRequired
+    root: PropTypes.bool
 };
 
 export default SubMenu;
