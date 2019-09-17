@@ -1,34 +1,38 @@
 import React, {useState, useEffect} from 'react';
 import {ProgressSpinner} from "primereact/progressspinner";
 import {getCallSheet} from "../../api/budgetApi";
+import './shooting.css';
+import CallSheetHeader from "./CallSheetHeader";
 
 const ShootingPage = () => {
   const [sheet, setSheet] = useState(null);
+  const [header, setHeader] = useState({});
+
+  function parseHeader ({title, crewCall, date, day, totalDays}){
+    return {
+      title, crewCall, date, day, totalDays
+    }
+  }
 
   useEffect(() => {
     if (!sheet) {
       getCallSheet().then(
-          _sheet => setSheet(_sheet)
+          _sheet => {
+            setSheet(_sheet);
+            setHeader(parseHeader(_sheet));
+          }
       )
     }
   }, [sheet]);
+
+
 
   return !sheet ?
       (
           <ProgressSpinner/>
       ) : (
           <>
-            <div className="p-grid">
-              <h1 className="p-col">{sheet.title}</h1>
-              <div className="p-col"/>
-              <div className="p-col">
-                {sheet.date}
-                <br/>
-                <h1>Day {sheet.day} of {sheet.totalDays}</h1>
-              </div>
-
-            </div>
-
+            <CallSheetHeader header={header} />
           </>
       )
 };
