@@ -1,8 +1,79 @@
 {
-  "crewCall": "7:00 AM",
-  "title": "To Dream",
-  "date": "10/11/2019",
-  "day": 2,
-  "totalDays": 16
+  "header": {
+    "crewCall": "7:00 AM",
+    "title": "To Dream",
+    "date": "10/11/2019",
+    "day": 2,
+    "totalDays": 16,
+    "scriptVersion": "Gold v3",
+    "ScheduleVersion": "Blue v2"
+  },
+  "keyTimes": [
+    {
+      "event": "Breakfast",
+      "time": "6:30"
+    },
+    {
+      "event": "Crew Call",
+      "time": "7:00"
+    },
+    {
+      "event": "Shooting Call",
+      "time": "8:00"
+    },
+    {
+      "event": "First Meal",
+      "time": "12:00"
+    },
+    {
+      "event": "Wrap",
+      "time": "19:00"
+    },
+    {
+      "event": "Second Meal",
+      "time": "19:00"
+    }
+  ],
+  "keyPeople": [
+    {
+      "name": "Harrington Mueller",
+      "role": "Executive Producer"
+    },
+    {
+      "name": "Sellers Short",
+      "role": "Co-Producer"
+    },
+    {
+      "name": "Dixon Hansen",
+      "role": "Director"
+    },
+    {
+      "name": "Latoya Sweeney",
+      "role": "Associate Producer"
+    },
+    {
+      "name": "Gwendolyn Barnes",
+      "role": "Line Producer"
+    },
+    {
+      "name": "Robinson Cortez",
+      "role": "1st Assist Director"
+    },
+    {
+      "name": "Dominique Ewing",
+      "role": "2nd Assist Director"
+    },
+    {
+      "name": "Camacho Lambert",
+      "role": "Production Coordinator"
+    }
+  ],
+  "setMedic": {
+    "name": "Betty House",
+    "phone": "+1 (973) 558-2552"
+  },
+  "Notes": [
+    "Please car pool to the Taco Shop for lunch, (parking on the street)"
+  ]
 
 }
