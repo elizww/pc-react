@@ -8,10 +8,16 @@ const SheetPreface = ({sheet}) => {
         <div className="p-col-6">
           <Fieldset legend="Key People" toggleable>
             {sheet.keyPeople.map((kp, idx) => (
-                <div className="p-grid">
+                <div className="p-grid" key={idx}>
                   <span className="p-col-6" key={idx}><strong>{kp.role} :</strong></span>
                   <span className="p-col-6">{kp.name}</span>
-                </div>))}
+                </div>))
+            }
+            <div>
+              <i className="fas fa-ambulance" />
+              <span className="p-col-6" key="medic"><strong>Set Medic :</strong></span>
+              <span className="p-col-6">{sheet.setMedic.name} - {sheet.setMedic.phone}</span>
+            </div>
           </Fieldset>
         </div>
         <div className="p-col-6">

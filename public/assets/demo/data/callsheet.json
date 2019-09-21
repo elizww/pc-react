@@ -74,6 +74,101 @@
   },
   "Notes": [
     "Please car pool to the Taco Shop for lunch, (parking on the street)"
-  ]
+  ],
+  "shootingSchedule": [
+    {
+      "type": "location",
+      "location": {
+        "name": "Miller Home",
+        "addressLine1": "61 Saxon Street",
+        "addressLine2": "Harleysville, PA 19438"
+      },
+      "shots": [
+        {
+          "scene": "PU 8b",
+          "set": "INT: Mary's KITCHEN",
+          "description": "Jennie converses with Sharron outside her office.",
+          "cast": [
+            3,
+            7
+          ],
+          "extras": 0,
+          "DN": "D1",
+          "pages": "1 1/8",
+          "onTime": "done"
+        },
+        {
+          "scene": "11",
+          "set": "INT: STREET",
+          "description": "Mrs. Jenkins waves to Jennie as she leaves for work",
+          "cast": [
+            3,
+            19
+          ],
+          "extras": 0,
+          "DN": "D4",
+          "pages": "4/8",
+          "onTime": "alert"
+        }
+      ]
+    },
+    {
+      "type": "commute",
+      "who": "Company Move",
+      "time": "32 minutes"
+    },
+    {
+      "type": "location",
+      "location": {
+        "name": "Highway 70 Roadside",
+        "addressLine1": "7926 Lakewood Gardens",
+        "addressLine2": "Crossing Wilmington, Delaware"
+      },
+      "shots": [
+        {
+          "scene": "16",
+          "set": "EXT: SHOULDER OF HIGHWAY",
+          "description": "Stacy and Aaron try to hitchhike",
+          "cast": [
+            1,
+            5
+          ],
+          "extras": 2,
+          "DN": "D32",
+          "pages": "4/8",
+          "onTime": "alert"
+        }
+      ]
+    },
+    {
+      "type": "commute",
+      "who": "Company Move",
+      "time": "15 minutes"
+    },
+    {
+      "type": "location",
+      "location": {
+        "name": "High Point Corporation",
+        "addressLine1": "4 Utah Drive",
+        "addressLine2": "New Haven, Connecticut"
+      },
+      "shots": [
+        {
+          "scene": "12",
+          "set": "INT: OUTSIDE DOOR",
+          "description": "Vincent eavesdrops on boss's meeting",
+          "cast": [
+            5,
+            9
+          ],
+          "extras": 3,
+          "DN": "D5",
+          "pages": "7/8",
+          "onTime": "alert"
+        }
+      ]
+    }
+    ]
+
 
 }

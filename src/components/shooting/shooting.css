@@ -10,3 +10,7 @@
 legend.p-fieldset-legend {
   font-size: 1em;
 }
+
+body .p-component{
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
