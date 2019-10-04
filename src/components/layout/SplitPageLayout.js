@@ -6,10 +6,10 @@ import ShootingPage from "../shooting/ShootingPage";
 const SplitPageLayout = () => {
     return (
         <>
-            <div className="p-col-6">
+          <div className="p-col-7">
                 <Route path="/shooting" component={ShootingPage}/>
             </div>
-            <div className="p-col-6">
+          <div className="p-col-5">
                 <Route path="/shooting" component={BudgetSplit}/>
             </div>
         </>
