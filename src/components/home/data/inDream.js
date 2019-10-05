@@ -1,4 +1,5 @@
 export default {
+  title: 'In Dream',
   bar: {
     labels: ['January', 'February', 'March'],
     datasets: [{

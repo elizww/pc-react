@@ -1,4 +1,5 @@
 export default {
+  title: 'Bound Kiss',
   bar: {
     labels: ['January', 'February', 'March'],
     datasets: [{

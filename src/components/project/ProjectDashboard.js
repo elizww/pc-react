@@ -37,7 +37,7 @@ const ProjectDashboard = ({data}) => {
   };
   return (
       <div className='pc-project'>
-        <h2>Bound Kiss</h2>
+        <h2>{data.title}</h2>
         <div className="p-grid">
           <div className="p-col-5">
             <Chart type='bar' data={data.bar} options={options}/>

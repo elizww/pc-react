@@ -1,4 +1,5 @@
 export default {
+  title: 'The Silent Valley',
   bar: {
     labels: ['February', 'March', 'April', 'May', 'June'],
     datasets: [{
