@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d5bd3ff-0032-44c0-aae9-2311b6b2c4e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/home/HomePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/home/_home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/home/data/boundKiss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/home/data/inDream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home/data/theSilentValley.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/project/ProjectDashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/project/_project.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/budget/BudgetSplit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/budget/BudgetSplit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/SinglePageLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/SinglePageLayout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/SplitPageLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/SplitPageLayout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/shooting/_schedule.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/shooting/_schedule.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/home/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/home/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/home/data/boundKiss.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/data/boundKiss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/home/data/inDream.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/data/inDream.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,55 +35,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/layout/AppMain.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/layout/SinglePageLayout.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
               <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/home/HomePage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="17" column="96" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="96" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/home/data/theSilentValley.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/project/ProjectDashboard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/project/_project.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/home/HomePage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/home/_home.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            <state relative-caret-position="42">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -94,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/home/data/boundKiss.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
-              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            <state relative-caret-position="518">
+              <caret line="53" column="13" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="53" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -103,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/home/data/inDream.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="46" column="40" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+            <state relative-caret-position="399">
+              <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
               <folding>
                 <element signature="e#25#503#0" />
               </folding>
@@ -185,10 +188,13 @@
         <option value="$PROJECT_DIR$/src/components/layout/SinglePageLayout.js" />
         <option value="$PROJECT_DIR$/src/components/home/data/projects.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/components/home/data/inDream.js" />
         <option value="$PROJECT_DIR$/src/components/home/data/boundKiss.js" />
-        <option value="$PROJECT_DIR$/src/components/home/_home.scss" />
+        <option value="$PROJECT_DIR$/src/components/home/data/inDream.js" />
+        <option value="$PROJECT_DIR$/src/components/project/_project.scss" />
+        <option value="$PROJECT_DIR$/src/components/home/data/theSilentValley.js" />
+        <option value="$PROJECT_DIR$/src/components/project/ProjectDashboard.js" />
         <option value="$PROJECT_DIR$/src/components/home/HomePage.js" />
+        <option value="$PROJECT_DIR$/src/components/home/_home.scss" />
       </list>
     </option>
   </component>
@@ -247,6 +253,13 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pc-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pc-react" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pc-react" type="b2602c69:ProjectViewProjectNode" />
@@ -324,7 +337,7 @@
       <workItem from="1569064075293" duration="1999000" />
       <workItem from="1569066097305" duration="2054000" />
       <workItem from="1569068177699" duration="8733000" />
-      <workItem from="1570214434094" duration="6865000" />
+      <workItem from="1570214434094" duration="9549000" />
     </task>
     <task id="LOCAL-00001" summary="add callsheet, budget pages, fix top bar">
       <created>1568638947398</created>
@@ -340,11 +353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568831883665</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="home page">
+      <created>1570227170473</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570227170473</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60025000" />
+    <option name="totallyTimeSpent" value="62709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -377,7 +397,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="add callsheet, budget pages, fix top bar" />
     <MESSAGE value="add preface - times and people" />
-    <option name="LAST_COMMIT_MESSAGE" value="add preface - times and people" />
+    <MESSAGE value="home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="home page" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -648,9 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,37 +692,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/home/data/boundKiss.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="53" column="13" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/home/data/inDream.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="46" column="40" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+        <state relative-caret-position="399">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
           <folding>
             <element signature="e#25#503#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/home/data/boundKiss.js">
+    <entry file="file://$PROJECT_DIR$/src/components/project/_project.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        <state relative-caret-position="84">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/home/_home.scss">
+    <entry file="file://$PROJECT_DIR$/src/components/home/data/theSilentValley.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        <state relative-caret-position="672">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/project/ProjectDashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/home/HomePage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="336">
+          <caret line="17" column="96" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="96" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/home/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>

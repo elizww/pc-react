@@ -48,5 +48,8 @@ export default {
         ],
       }
     ]
-  }
+  },
+  alerts: 5,
+  messages: 3,
+  events: 12,
 }

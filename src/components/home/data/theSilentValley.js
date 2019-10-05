@@ -1,36 +1,42 @@
 export default {
   bar: {
-    labels: ['January', 'February', 'March'],
+    labels: ['February', 'March', 'April', 'May', 'June'],
     datasets: [{
       type: 'line',
       label: 'Gap',
-      borderColor: '#2196F3',
+      borderColor: '#7196F3',
       borderWidth: 2,
       fill: false,
       data: [
-        20000,
-        32000,
-        0,
+        6000,
+        10000,
+        2000,
+        7000,
+        29000,
       ]
     }, {
       type: 'bar',
       label: 'Planned',
-      backgroundColor: '#4CAF50',
+      backgroundColor: '#123456',
       data: [
-        21000,
-        52000,
-        24000,
+        41000,
+        79000,
+        72000,
+        44000,
+        83000,
       ],
       borderColor: 'white',
       borderWidth: 2
     }, {
       type: 'bar',
       label: 'Actual',
-      backgroundColor: '#FFC107',
+      backgroundColor: '#fedba0',
       data: [
-        41000,
-        84000,
-        24000,
+        47000,
+        89000,
+        74000,
+        51000,
+        112000,
       ]
     }]
   },
@@ -38,7 +44,7 @@ export default {
     labels: ['Writers', 'Director', 'Producer', 'Cast', 'Production Crew', 'Director Department', 'Light, Camera & Sound', 'Art', 'Other'],
     datasets: [
       {
-        data: [71388, 89235, 118980, 88000, 87750, 44000, 64000, 64000, 155000],
+        data: [60000, 99000, 160000, 160000, 65000, 29000, 115000, 32000, 250000],
         backgroundColor: [
           "#845EC2",
           "#D65DB1",
@@ -49,7 +55,7 @@ export default {
       }
     ]
   },
-  alerts: 2,
-  messages: 5,
-  events: 6,
+  alerts: 9,
+  messages: 53,
+  events: 12,
 }
