@@ -2,4 +2,93 @@
   &:hover {
     background-color: #d5d5d5;
   }
+
+
+}
+
+#next-button, #prev-button{
+  padding: 3px 16px;
+}
+
+.pc-project-container{
+  text-align: -webkit-center;
+}
+
+.pc-project-wizard{
+  width: 500px;
+}
+
+.pc-project-step-content{
+  padding: 5rem;
+  input {
+    width: 100%;
+  }
+}
+
+.pc-project-description-type{
+  padding: 3rem 0;
+  width: 100%;
+  &__select{
+    width: 100%;
+  }
+}
+
+.pc-project-description-country{
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #ffffff;
+  border: 1px solid #a6a6a6;
+  -webkit-transition: border-color 0.2s, box-shadow 0.2s;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  border-radius: 3px;
+  font-size: 14px;
+  text-decoration: none;
+
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  vertical-align: middle;
+  min-width: 12.5em;
+  width: 100%;
+  text-align: left;
+
+  .arrow-down{
+
+    background-color: #ffffff;
+    width: 2em;
+    line-height: 2em;
+    text-align: center;
+    padding: 0;
+    color: #848484;
+    border-radius: 3px;
+
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 0;
+    cursor: pointer;
+    width: 1.5em;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 0 .25em;
+
+
+  }
+
+  .flag-select{
+    width: 100%;
+  }
+
+  &:hover {
+    border-color: #212121;
+    
+  }
+}
+
+.pc-project-step-title{
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom : 2rem;
+  text-align: left;
+
 }

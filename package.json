@@ -16,8 +16,10 @@
     "primereact": "^3.2.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-flags-select": "^1.1.10",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1",
+    "react-stepzilla": "^6.0.2",
     "react-transition-group": "^4.3.0"
   },
   "scripts": {

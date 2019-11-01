@@ -1,6 +1,7 @@
 import React from 'react';
 import AppProfile from "./AppProfile";
 import LeftMenu from "./LeftMenu";
+import {Link} from "react-router-dom";
 
 const AppMenu = () => {
     const logo = 'assets/layout/images/logo-white.png';
@@ -46,7 +47,10 @@ const AppMenu = () => {
     return (
         <div className="layout-sidebar layout-sidebar-dark">
             <div className="layout-logo">
-                <img alt="Logo" height="50" width="188" src={logo}/>
+                <Link to='/'>
+                    <img alt="Logo" height="50" width="188" src={logo} />
+                </Link>
+                
             </div>
             <AppProfile/>
             <LeftMenu model={menu}/>

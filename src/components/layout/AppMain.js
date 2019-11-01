@@ -9,6 +9,7 @@ const AppMain = () => {
             <div className="p-grid">
                 <Switch>
                     <Route to="/budget" component={SinglePageLayout}/>
+                    <Route to="/new" component={SinglePageLayout}/>
                     <Route to="/" component={SinglePageLayout} exact/>
                 </Switch>
                 <Route to="/shooting" component={SplitPageLayout}/>

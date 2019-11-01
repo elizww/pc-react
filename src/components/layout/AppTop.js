@@ -15,6 +15,11 @@ const AppTop = ({history}) => {
             icon:'pi pi-fw pi-file',
             items:[
                 {
+                    label:'New Project',
+                    icon:'pi pi-fw pi-plus',
+                    command: () => redirect('/new')
+                },
+                {
                     label:'Info',
                     icon:'pi pi-fw pi-info',
                 },
