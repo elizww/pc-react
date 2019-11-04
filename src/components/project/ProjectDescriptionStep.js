@@ -3,6 +3,7 @@ import {InputText} from 'primereact/inputtext';
 import {Dropdown} from 'primereact/dropdown';
 import ReactFlagsSelect from 'react-flags-select';
 import 'react-flags-select/scss/react-flags-select.scss';
+import './_project.scss';
 
 const ProjetDescriptionStep = () => {
   const [name, setName] = useState('');

@@ -1,0 +1,271 @@
+{
+    "data": [
+    	{
+            "id": 1,
+    		"title": "Open Project 'Chronicle of Repression'",
+    		"start": "2015-10-01"
+    	},
+    	{
+            "id": 2,
+    		"title": "Storyboard, Casting Crew",
+    		"start": "2015-10-02"
+     	},
+    	{
+    		"id": 3,
+    		"title": "Production Meeting",
+    		"start": "2015-10-15T16:00:00"
+    	},
+    	{
+    		"id": 4,
+    		"title": "Production Meeting",
+    		"start": "2015-10-29T16:00:00"
+    	},
+    	{
+         "id": 5,
+    		"title": "Storyboard Ready, Location Scouting",
+    		"start": "2015-10-30"
+    	},
+    	{
+        "id": 6,
+    		"title": "Production Meeting",
+    		"start": "2015-11-12T16:00:00"
+    	},
+    	{
+            "id": 7,
+    		"title": "Production Meeting",
+    		"start": "2015-11-26T16:00:00"
+    	},
+    	{
+            "id": 8,
+    		"title": "Key crew set",
+    		"start": "2015-11-27"
+    	},
+    	{
+            "id": 9,
+    		"title": "Location tour",
+    		"start": "2015-11-28"
+    	},
+    	{
+            "id": 10,
+    		"title": "Production Meeting",
+    		"start": "2015-12-10T16:00:00"
+    	},
+    	{
+            "id": 11,
+    		"title": "Production Meeting",
+    		"start": "2015-12-24T16:00:00"
+    	},
+    	{
+            "id": 12,
+    		"title": "Location tour",
+    		"start": "2015-12-12"
+    	}
+      ,
+    	{
+            "id": 13,
+    		"title": "Meeting with the dresser",
+    		"start": "2015-12-13"
+    	},
+    	{
+            "id": 14,
+    		"title": "All main actors found",
+    		"start": "2015-12-14"
+    	},
+    	{
+            "id": 15,
+    		"title": "Search for the actor's cloths",
+    		"start": "2015-12-15"
+    	},
+    	{
+            "id": 16,
+    		"title": "Actors special training",
+    		"start": "2015-12-16"
+    	},
+    	{
+            "id": 17,
+    		"title": "Rehearsals",
+    		"start": "2015-12-18"
+    	},
+    	{
+            "id": 18,
+    		"title": "Location tour",
+    		"start": "2015-12-26"
+    	},
+    	{
+            "id": 19,
+    		"title": "All actors found",
+    		"start": "2015-12-28"
+    	},
+    	{
+            "id": 20,
+    		"title": "All locations found",
+    		"start": "2015-12-29"
+    	},
+    	{
+            "id": 21,
+    		"title": "All crew found",
+    		"start": "2015-12-30"
+    	},
+    	{
+            "id": 22,
+    		"title": "All light floor plan ready",
+    		"start": "2016-01-03"
+    	},
+    	{
+            "id": 23,
+    		"title": "Equipment list set",
+    		"start": "2016-01-04"
+    	},
+    	{
+            "id": 24,
+    		"title": "Dress parade",
+    		"start": "2016-01-05"
+    	},
+    	{
+            "id": 25,
+    		"title": "Hair & Makeup set",
+    		"start": "2016-01-06"
+    	},
+    	{
+            "id": 26,
+    		"title": "Last production meeting",
+    		"start": "2016-01-07T16:00"
+    	},
+    	{
+            "id": 27,
+    		"title": "Production insurance",
+    		"start": "2016-01-11"
+    	},
+    	{
+            "id": 28,
+    		"title": "Art & construction ready",
+    		"start": "2016-01-13"
+    	},
+    	{
+            "id": 29,
+    		"title": "Last rehearsal",
+    		"start": "2016-01-14"
+    	},
+    	{
+            "id": 30,
+    		"title": "Take the rental equipment",
+    		"start": "2016-01-17"
+    	},
+    	{
+            "id": 31,
+    		"title": "Scene 39",
+    		"start": "2016-01-18"
+    	},
+      	{
+            "id": 32,
+    		"title": "Scene 47",
+    		"start": "2016-01-18"
+    	},
+      	{
+            "id": 33,
+    		"title": "Scene 16",
+    		"start": "2016-01-18"
+    	},
+      	{
+            "id": 34,
+    		"title": "Scene 41",
+    		"start": "2016-01-19"
+    	},
+      	{
+            "id": 35,
+    		"title": "Scene 23",
+    		"start": "2016-01-19"
+    	},
+    	{
+            "id": 36,
+    		"title": "Scene 11",
+    		"start": "2016-01-21"
+    	},
+    	{
+            "id": 37,
+    		"title": "Scene 12",
+    		"start": "2016-01-21"
+    	},
+    	{
+            "id": 38,
+    		"title": "Scene 10",
+    		"start": "2016-01-22"
+    	},
+    	{
+            "id": 39,
+    		"title": "Scene 24",
+    		"start": "2016-01-22"
+    	},
+    	{
+            "id": 40,
+    		"title": "Scene 53",
+    		"start": "2016-01-23"
+    	},
+    	{
+            "id": 41,
+    		"title": "Scene 18",
+    		"start": "2016-01-23"
+    	},
+    	{
+            "id": 42,
+    		"title": "Scene 14",
+    		"start": "2016-01-23"
+    	},
+    	{
+            "id": 43,
+    		"title": "Scene 8",
+    		"start": "2016-01-23"
+    	},
+    	{
+            "id": 44,
+    		"title": "Scene 6",
+    		"start": "2016-01-25"
+    	},
+    	{
+            "id": 45,
+    		"title": "Scene 19",
+    		"start": "2016-01-25"
+    	},
+    	{
+            "id": 46,
+    		"title": "Scene 17",
+    		"start": "2016-01-25"
+    	},
+    	{
+            "id": 47,
+    		"title": "Scene 57",
+    		"start": "2016-01-25"
+    	},
+    	{
+            "id": 48,
+    		"title": "Scene 52",
+    		"start": "2016-01-26"
+    	},
+    	{
+            "id": 49,
+    		"title": "Scene 54",
+    		"start": "2016-01-26"
+    	},
+    	{
+            "id": 50,
+    		"title": "Scene 51",
+    		"start": "2016-01-26"
+    	},
+    	{
+            "id": 51,
+    		"title": "Scene 15",
+    		"start": "2016-01-27"
+    	},
+    	{
+            "id": 52,
+    		"title": "Scene 28",
+    		"start": "2016-01-27"
+    	},
+    	{
+            "id": 53,
+    		"title": "Scene 25",
+    		"start": "2016-01-27"
+    	}     
+      
+    ]
+}

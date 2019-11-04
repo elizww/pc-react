@@ -17,7 +17,7 @@ const ProjectScriptStep = () => {
             url="./upload.php" 
             onUpload={onUpload} 
             multiple={true} 
-            maxFileSize={1000000} />
+            maxFileSize={10000000} />
             <Growl ref={(el) => setGrowl(el)}></Growl>
       </div>
   )
